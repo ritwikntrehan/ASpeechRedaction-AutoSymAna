@@ -1,0 +1,13 @@
+file_number,file_name,file_duration,file_classification
+1,InfantVoiceClipSample (2).wav,7.0,1
+2,InfantVoiceClipSample (1).wav,7.0,1
+3,InfantVoiceClipSample (6).wav,7.0,1
+4,InfantVoiceClipSample (5).wav,7.0,1
+5,InfantVoiceClipSample (3).wav,7.0,1
+6,InfantVoiceClipSample (4).wav,7.0,1
+7,AdultVoiceClipSample (2).wav,13.0,0
+8,AdultVoiceClipSample (1).wav,29.0,0
+9,AdultVoiceClipSample (4).wav,19.0,0
+10,AdultVoiceClipSample (3).wav,14.0,0
+11,AdultVoiceClipSample (6).wav,21.0,0
+12,AdultVoiceClipSample (5).wav,17.0,0
